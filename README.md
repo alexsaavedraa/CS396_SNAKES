@@ -1,7 +1,7 @@
 # CS396_SNAKES
 
 BASED ON REDDIT R/LUDOBOTS. ONLY VERIFIED WITH WINDOWS 11. 
-Ludobots is a robot simulation based on pybullet. it runs a basic physics simulation that allows you to rapidly iterate robot designs, or, in this case, randomly generate and evolve them
+Ludobots is a robot simulation based on pybullet. it runs a basic physics simulation that allows you to rapidly iterate robot designs, or, in this case, randomly generate and evolve them. Note: large portions of this code are not written by myself, but only adapted from another ludobots assignment on github. The assignment to create snakes is only a small part of the whole of the ludobots project and I believe that my code is sufficiently new
 instructions: right click in file explorer, then select run in terminal from context menu. run with "python main.py"
 ![image](https://user-images.githubusercontent.com/114758213/218650603-555e88a9-2663-4421-8c5d-c8850d5b2206.png)
 
